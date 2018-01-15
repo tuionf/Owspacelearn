@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="H:\AndroidStudioProjects\Owspacelearn\SlidingMenu\assets"/><source path="H:\AndroidStudioProjects\Owspacelearn\SlidingMenu\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="H:\AndroidStudioProjects\Owspacelearn\SlidingMenu\src\debug\assets"/></dataSet></merger>
